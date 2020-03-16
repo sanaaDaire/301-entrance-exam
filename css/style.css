@@ -1,0 +1,24 @@
+h1{
+
+    font-family: 'Roboto', sans-serif;
+    background-color: #6d8adbc7;
+    color: white;
+}
+
+body{
+ font-family: 'Roboto', sans-serif;
+background-color: #eee  ;
+}
+
+form{
+    font-family: 'Roboto', sans-serif;
+    background-color:#dae4ff;
+    color: black;
+}
+
+#submit1{
+    font-family: 'Roboto', sans-serif;
+    background-color: #6d8adbc7;
+    color: white;
+
+}
